@@ -1,1 +1,1 @@
-labels: bug
+Labels: bug
