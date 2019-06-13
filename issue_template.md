@@ -1,5 +1,5 @@
 ---
 title: 'Bug report'
-labels: bug
+labels: ":bug: Bug"
 assignees: rshiva777
 ---
