@@ -1,1 +1,2 @@
 my template
+labels: India
