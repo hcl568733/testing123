@@ -1,7 +1,3 @@
-title: ''
-labels: bug
-assignees: rshiva777
-
-@rshiva777
-[GitHub Pages](https://pages.github.com/)
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+hishiva 
+@labels=bug3 
+body https://github.com/octo-org/octo-repo/compare/master...pull-request-test?quick_pull=1&body=Fixes+the+problem
